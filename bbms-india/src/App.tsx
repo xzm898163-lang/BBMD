@@ -226,7 +226,7 @@ const LoginScreen = ({ onLogin }: { onLogin: () => void }) => (
           <p className="text-sm font-bold text-primary">Designed & Produced by Shubham App – Chhatarpur Production.</p>
         </div>
         <div className="flex flex-col md:flex-row justify-between w-full items-center gap-4 border-t border-slate-100 pt-6">
-          <p>© 2024 Blood Bank Management System India. All rights reserved.</p>
+          <p>Here is the place to copyrights</p>
           <div className="flex items-center gap-6">
             <a className="hover:text-primary transition-colors" href="#">Privacy Policy</a>
             <a className="hover:text-primary transition-colors" href="#">Terms of Service</a>
