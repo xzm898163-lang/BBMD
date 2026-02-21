@@ -1,0 +1,5 @@
+{
+  "name": "BBMS India",
+  "description": "A comprehensive Blood Bank Management System for tracking inventory, donor registration, lab testing, and component separation.",
+  "requestFramePermissions": ["camera"]
+}
